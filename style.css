@@ -1,0 +1,23 @@
+.wow {
+  width: 100px;
+}
+body {
+  background-color: black;
+}
+
+h1 {
+  color: grey;
+  margin-left: 20px;
+}
+
+h2 {
+	color: darkgrey;
+	margin-left: 20px;
+}
+
+
+p1 {
+	color: darkgrey;
+	margin-left: 30px;
+	font-family:"Courier New";
+}
